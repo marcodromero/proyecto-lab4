@@ -1,0 +1,19 @@
+# archivo .htaccess
+
+RewriteEngine on
+
+RewriteRule ^login$ controllers/Login.php
+RewriteRule ^index$ controllers/Index.php
+RewriteRule ^nuevo-alumno$ controllers/AltaAlumno.php
+RewriteRule ^editar-alumno$ controllers/ModificarAlumno.php
+RewriteRule ^eliminar-alumno$ controllers/BajaAlumno.php
+RewriteRule ^nuevo-curso$ controllers/AltaCurso.php
+RewriteRule ^nuevo-profesor$ controllers/AltaProfesor.php
+RewriteRule ^inscripcion$ controllers/AltaAlumnoCurso.php
+RewriteRule ^cursos$ controllers/ListaCursos.php
+RewriteRule ^planillas$ controllers/CategoriasPlanillas.php
+RewriteRule ^estilo.css$ styles/estilo.css
+RewriteRule ^logo.png$ images/Logo.png
+RewriteRule ^logout$ html/Logout.php
+
+
