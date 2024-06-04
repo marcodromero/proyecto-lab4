@@ -3,7 +3,7 @@
 Web para gestionar los profesores, alumnos, cursos e inscripciones a estos.
 
 Como ejecutar este proyecto:
-1- Instalar xampp 
+1- Descargar e Instalar xampp 
 2- Colocar la carpeta de este proyecto en xampp/htdocs
 3- Utilizando un editor como visual studio code abre la carpeta del proyecto y quita la "x" de .htaccess
 4- iniciar xampp y ejecutar los modulos Apache y MySQL
