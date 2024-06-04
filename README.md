@@ -11,4 +11,4 @@ Como ejecutar este proyecto:
 6- Dentro de esta base de datos importar el archivo .sql del proyecto para que se carguen las tablas y datos
 7- Acceder a http://localhost/proyecto-lab4-master/login (Agregar puerto si se ha indicado uno en xampp)
 8- Por defecto Usuario: marco@gmail.com Contraseña: 123456 (No hay problema revelando esto ya que no seran los mismos datos en un posible deploy)
-9-meh
+9-copilot
