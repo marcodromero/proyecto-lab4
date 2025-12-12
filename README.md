@@ -6,7 +6,7 @@ Para poner en marcha esta aplicación en tu entorno local, sigue los pasos detal
 ### 1. Configuración del Entorno 🖥️
 Descargar e Instalar XAMPP
 
-Iniciar XAMPP: Abre el Panel de Control de XAMPP e inicia los siguientes módulos:
+Abre el Panel de Control de XAMPP e inicia los siguientes módulos:
 ✅ Apache
 ✅ MySQL
 
@@ -27,9 +27,9 @@ Selecciona el archivo .sql del proyecto y ejecútalo para cargar todas las tabla
 ### 4. Acceso a la Aplicación ▶️
 Una vez completados los pasos anteriores, puedes acceder a la aplicación desde tu navegador:http://localhost/proyecto-lab4/login
 
-⚠️ NOTA: Si configuraste XAMPP para usar un puerto distinto  asegúrate de incluirlo en la URL: http://localhost:8080/proyecto-lab4/login.🔑 
+⚠️ NOTA: Si configuraste XAMPP para usar un puerto distinto  asegúrate de incluirlo en la URL: http://localhost:8080/proyecto-lab4/login.
 
-## Credenciales de Acceso por Defecto
+## 🔑 Credenciales de Acceso por Defecto
 
 Utiliza estas credenciales para ingresar por primera vez a la aplicación:
 
